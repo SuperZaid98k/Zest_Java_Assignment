@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "ProductApiApplication",
+      "request": "launch",
+      "mainClass": "com.zest.productapi.ProductApiApplication",
+      "projectName": "product-api"
+    }
+  ]
+}
